@@ -26,10 +26,6 @@ My website is https://ninjas.cl
 - https://www.phoenixframework.org/
 - https://vapor.codes/
 
-## Personality
-
-[![INTJ-T](https://user-images.githubusercontent.com/292738/91742866-ed706d00-eb84-11ea-8a57-c61f8e51400b.png)](https://www.16personalities.com/intj-personality)
-
 <!--
 **clsource/clsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
