@@ -103,9 +103,18 @@
           "url": "https://github.com/joyofpw/chileanbirds-api",
           "repo": "joyofpw/chileanbirds-api",
           "about": "A simple [REST API](https://aves.ninjas.cl) for showing different birds from chile.",
-          "start": "May 2020",
-          "end": "May 2020",
+          "start": "September 2020",
+          "end": "September 2020",
           "tech": ["REST", "PHP", "ProcessWire", "React", "JavaScript"]
+        },
+        {
+          "name": "Biyete",
+          "url": "https://github.com/biyete/biyete",
+          "repo": "biyete/biyete",
+          "about": "An email parser that extract banking information and store it in a Google Spreadsheet or REST endpoint.",
+          "start": "July 2020",
+          "end": "July 2020",
+          "tech": ["JavaScript", "Google Apps", "Gmail"]
         }
       ]
     },

@@ -72,8 +72,16 @@ A framework that simplifies native mobile app development by using a JSON based 
 A simple [REST API](https://aves.ninjas.cl) for showing different birds from chile.
 
 - Tech: `['REST', 'PHP', 'ProcessWire', 'React', 'JavaScript']`
-- Start: May 2020
-- End: May 2020
+- Start: September 2020
+- End: September 2020
+
+
+## [Biyete](https://github.com/biyete/biyete)
+An email parser that extract banking information and store it in a Google Spreadsheet or REST endpoint.
+
+- Tech: `['JavaScript', 'Google Apps', 'Gmail']`
+- Start: July 2020
+- End: July 2020
 
 # 📓 · Publications
 
