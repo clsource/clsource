@@ -66,6 +66,15 @@ A framework that simplifies native mobile app development by using a JSON based 
 - Start: November 2018
 - End: December 2020
 
+# 🌐 · Web
+
+## [Chilean Birds](https://github.com/joyofpw/chileanbirds-api)
+A simple [REST API](https://aves.ninjas.cl) for showing different birds from chile.
+
+- Tech: `['REST', 'PHP', 'ProcessWire', 'React', 'JavaScript']`
+- Start: May 2020
+- End: May 2020
+
 # 📓 · Publications
 
 ## [Wren Libro](https://github.com/ninjascl/wren-libro)
@@ -87,7 +96,7 @@ A curated list of Javascript tools for frontend and backend projects.
 ## [Guía Laboral](https://github.com/devschile/guia-laboral)
 A Simple guide for developers by developers to the current Chilean job environment.
 
-- Tech: `[]`
+- Tech: `['AsciiDoc']`
 - Start: October 2019
 - End: March 2020
 

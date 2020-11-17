@@ -94,9 +94,25 @@
       ]
     },
     {
+      "title": "Web",
+      "emoji": "🌐",
+      "sort": 3,
+      "items": [
+        {
+          "name": "Chilean Birds",
+          "url": "https://github.com/joyofpw/chileanbirds-api",
+          "repo": "joyofpw/chileanbirds-api",
+          "about": "A simple [REST API](https://aves.ninjas.cl) for showing different birds from chile.",
+          "start": "May 2020",
+          "end": "May 2020",
+          "tech": ["REST", "PHP", "ProcessWire", "React", "JavaScript"]
+        }
+      ]
+    },
+    {
       "title": "Publications",
       "emoji": "📓",
-      "sort": 3,
+      "sort": 4,
       "items": [
         {
           "name": "Wren Libro",
@@ -123,7 +139,7 @@
           "about": "A Simple guide for developers by developers to the current Chilean job environment.",
           "start": "October 2019",
           "end": "March 2020",
-          "tech": []
+          "tech": ["AsciiDoc"]
         },
         {
           "name": "Las Aventuras de Quirquincho",
