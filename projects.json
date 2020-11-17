@@ -6,15 +6,6 @@
       "sort": 0,
       "items": [
         {
-          "name": "Jasonelle",
-          "url": "https://jasonelle.com",
-          "repo": "jasonelle/jasonelle",
-          "about": "A framework that simplifies native mobile app development by using a JSON based declarative language.",
-          "start": "November 2018",
-          "end": "present",
-          "tech": ["iOS", "Objective-C", "JavaScript"]
-        },
-        {
           "name": "Chaucha",
           "url": "https://chaucha.cl",
           "repo": "proyecto-chaucha/chauchera",
@@ -30,6 +21,33 @@
       "emoji": "🕹️",
       "sort": 1,
       "items": [
+        {
+          "name": "DOMEPunk",
+          "url": "https://github.com/NinjasCL/domepunk",
+          "repo": "NinjasCL/domepunk",
+          "about": "Different utility libraries for game development using _Wren_ and DOME Engine.",
+          "start": "October 2020",
+          "end": "-",
+          "tech": ["Wren", "Dome Engine"]
+        },
+        {
+          "name": "Snake Clone",
+          "url": "https://github.com/NinjasCL/snake",
+          "repo": "NinjasCL/snake",
+          "about": "A simple Snake clone",
+          "start": "October 2020",
+          "end": "October 2020",
+          "tech": ["Wren", "Dome Engine", "TIC-80"]
+        },
+        {
+          "name": "Breakout Clone",
+          "url": "https://github.com/NinjasCL/breakout",
+          "repo": "NinjasCL/breakout",
+          "about": "A simple Breakout clone",
+          "start": "October 2020",
+          "end": "October 2020",
+          "tech": ["Wren", "Dome Engine", "TIC-80"]
+        },
         {
           "name": "Munsta Jump",
           "url": "https://github.com/NinjasCL/munstajump",
@@ -60,18 +78,43 @@
       ]
     },
     {
-      "title": "Publications",
-      "emoji": "📓",
+      "title": "Mobile",
+      "emoji": "📱",
       "sort": 2,
       "items": [
+        {
+          "name": "Jasonelle",
+          "url": "https://jasonelle.com",
+          "repo": "jasonelle/jasonelle",
+          "about": "A framework that simplifies native mobile app development by using a JSON based declarative language.",
+          "start": "November 2018",
+          "end": "December 2020",
+          "tech": ["iOS", "Objective-C", "JavaScript", "Java"]
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "emoji": "📓",
+      "sort": 3,
+      "items": [
+        {
+          "name": "Wren Libro",
+          "url": "https://github.com/ninjascl/wren-libro",
+          "repo": "ninjascl/wren-libro",
+          "about": "A beginner book about the [Wren](https://wren.io) programming language.",
+          "start": "November 2020",
+          "end": "December 2020",
+          "tech": ["Wren"]
+        },
         {
           "name": "Curated JS Stack",
           "url": "https://github.com/devschile/curated-js-stack",
           "repo": "devschile/curated-js-stack",
           "about": "A curated list of Javascript tools for frontend and backend projects.",
           "start": "March 2020",
-          "end": "-",
-          "tech": []
+          "end": "March 2020",
+          "tech": ["JavaScript"]
         },
         {
           "name": "Guía Laboral",
@@ -79,7 +122,7 @@
           "repo": "devschile/guia-laboral",
           "about": "A Simple guide for developers by developers to the current Chilean job environment.",
           "start": "October 2019",
-          "end": "-",
+          "end": "March 2020",
           "tech": []
         },
         {
@@ -88,8 +131,8 @@
           "repo": "",
           "about": "Our friend Quirquincho teach about how Crypto currencies work with a friendly and beautiful comic stories.",
           "start": "March 2018",
-          "end": "-",
-          "tech": []
+          "end": "March 2018",
+          "tech": ["Blockchain"]
         },
         {
           "name": "How to install ProcessWire",
@@ -97,8 +140,8 @@
           "repo": "joyofpw/how-to-install-processwire",
           "about": "A simple step by step ProcessWire installation guide.",
           "start": "April 2017",
-          "end": "-",
-          "tech": []
+          "end": "April 2017",
+          "tech": ["ProcessWire", "PHP"]
         },
         {
           "name": "ProcessWire WireRender Pattern",
@@ -106,8 +149,8 @@
           "repo": "joyofpw/wire-render-pattern",
           "about": "A guide on how to organize files in a ProcessWire Installation.",
           "start": "December 2015",
-          "end": "-",
-          "tech": []
+          "end": "December 2015",
+          "tech": ["ProcessWire", "PHP"]
         },
         {
           "name": "Guía Webpay",
@@ -115,8 +158,8 @@
           "repo": "NinjasCL-archive/guia-webpay",
           "about": "A guide on how to use Transbank Webpay KCC. This guide gain popularity since at the time it was written the available documentation was awful and lacking details.",
           "start": "April 2014",
-          "end": "-",
-          "tech": []
+          "end": "April 2014",
+          "tech": ["Webpay", "Transbank"]
         }
       ]
     }
