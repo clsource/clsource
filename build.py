@@ -1,8 +1,10 @@
 import json
+from urllib import request
 
 def load():
-  with open("projects.json") as f:
-    return json.loads(f.read())
+  url = "https://raw.githubusercontent.com/NinjasCL/website/main/content/index/projects.json"
+  response = request.urlopen(url)
+  return json.loads(response.read())
 
 def main():
   data = load()
