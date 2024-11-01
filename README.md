@@ -15,7 +15,7 @@
 |---|---|
 |[Elixir](https://elixir-lang.org/) 🎉 | Main programming language. Useful for creating scripts and [Livebooks](https://livebook.dev/).
 |[Phoenix](https://www.phoenixframework.org/) + [Liveview & Surface](https://surface-ui.org/) + [Ash](https://ash-hq.org/) | Main backend framework and Web development tools.
-|[C99](https://en.wikipedia.org/wiki/C99) + [Odin](https://odin-lang.org) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
+|[Odin](https://odin-lang.org) & [C99](https://en.wikipedia.org/wiki/C99) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
 |[Svelte](https://svelte.dev/) | Secondary frontend framework.
 |[Objetive-C & Swift](https://www.swift.org/) | iOS apps.
 |[Wren](https://wren.io/) | Experimental Videogames with [Dome Engine](https://domeengine.com) and [TIC80](http://tic80.com/)
