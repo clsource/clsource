@@ -12,8 +12,11 @@ Software Engineer from Chile 🇨🇱
 
 ## Current Technology Stack
 
-- [Elixir](https://elixir-lang.org/)
-- [Phoenix](https://www.phoenixframework.org/) + [Surface](https://surface-ui.org/)
+- [Elixir](https://elixir-lang.org/) + [Phoenix](https://www.phoenixframework.org/) + [Surface](https://surface-ui.org/): Backends and Web systems.
+- [Odin](https:odin-lang.org): Terminal apps, low level code and Elixir Nifs.
+- Objetive-C + Swift: iOS apps.
+- Wren: Videogames with Tic80.
+
 
 ## Previous Technology Stack
 
