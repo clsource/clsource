@@ -23,7 +23,6 @@
 
 ## 👨‍🎓 Currently learning
 
-- Odin.
 - Ash framework.
 
 ## 🗝️ Previous Technology Stack
