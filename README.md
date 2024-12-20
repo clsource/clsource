@@ -9,6 +9,8 @@
 - Maintainer of [Jasonelle iOS Framework](https://jasonelle.com)
 - Website [Ninjas.cl](https://ninjas.cl)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clsource&show_icons=true&theme=radical)
+
 ## ✨ Current Technology Stack
 
 |Technology|Purpose|
