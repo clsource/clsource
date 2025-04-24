@@ -21,11 +21,12 @@
 |---|---|
 |[Elixir](https://elixir-lang.org/) 🎉 | Main programming language. Useful for creating scripts and [Livebooks](https://livebook.dev/).
 |[Phoenix](https://www.phoenixframework.org/) + [Liveview & Surface](https://surface-ui.org/) + [Ash](https://ash-hq.org/) | Main backend framework and Web development tools.
-|[C99](https://en.wikipedia.org/wiki/C99) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
+|[C99](https://en.wikipedia.org/wiki/C99), [Ada](https://ada-lang.io/) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
 |[Svelte](https://svelte.dev/) | Secondary frontend framework.
 |[Objective-C & Swift](https://www.swift.org/) | iOS apps.
+|[Asciidoc](https://asciidoctor.org/) + [Antora Docs](https://docs.antora.org/antora/latest/) | Book and docs authoring. ([Template](https://github.com/NinjasCL/asciidoc-book-template/)).
 |[Wren](https://wren.io/) | Experimental Videogames with [Dome Engine](https://domeengine.com) and [TIC80](http://tic80.com/)
-|[Asciidoc](https://asciidoctor.org/) | Book authoring. ([Template](https://github.com/NinjasCL/asciidoc-book-template/)).
+|[Defold](https://defold.com/) + [Pyxel Edit](https://pyxeledit.com) | Games with Lua.
 
 ## 👨‍🎓 Currently learning
 
