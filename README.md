@@ -42,5 +42,6 @@
 ## 🗝️ Previous Technology Stack
 
 - [Laravel](https://laravel.com/) + [Inertia](https://inertiajs.com/) + [Svelte](https://svelte.dev/)
+- [React.js](https://react.dev/)
 - [ProcessWire](https://processwire.com/) ([Experiments with ProcessWire](https://github.com/joyofpw/))
 - [Wren](https://wren.io/): Experimental Videogames with [Dome Engine](https://domeengine.com) and [TIC80](http://tic80.com/)
