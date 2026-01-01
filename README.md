@@ -1,5 +1,5 @@
 
-# 🥷 · About Camilo
+# 🥷 · About Camilo (@clsource)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=9027F7&width=435&lines=Camilo+%7C%3E+Elixir+%7C%3E+Software+Engineer)](https://git.io/typing-svg)
 
@@ -8,12 +8,11 @@
 - Member of [Elixir Chile](https://elixircl.github.io)
 - Maintainer of [Jasonelle iOS Framework](https://jasonelle.com)
 - Website [Ninjas.cl](https://ninjas.cl)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clsource&show_icons=true&theme=radical)
+- Since 2008
 
 ## 📂 Top Repositories
 
-[![Jasonelle](https://github-readme-stats.vercel.app/api/pin/?username=jasonelle&repo=jasonelle&theme=radical)](https://github.com/jasonelle/jasonelle)
+- [Jasonelle](https://github.com/jasonelle/jasonelle)
 
 ## ✨ Current Technology Stack
 
