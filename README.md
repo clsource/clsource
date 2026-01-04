@@ -38,6 +38,7 @@
 - https://elixircl.github.io/elixir-fullstack/ : Book about fullstack development with Elixir
 - https://ninjascl.github.io/sistemas-operativos/: Book about operating systems
 - https://ninjas.codeberg.page/superclubnet/@main/docs/ : Book about HTML, CSS and JS
+- https://ninjascl.github.io/wren-libro/ : Book about Wren Programming Language
 
 ## 🗝️ Previous Technology Stack
 
