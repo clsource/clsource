@@ -40,6 +40,15 @@
 - https://ninjas.codeberg.page/superclubnet/@main/docs/ : Book about HTML, CSS and JS
 - https://ninjascl.github.io/wren-libro/ : Book about Wren Programming Language
 
+## 👨🏻‍🏫 University Courses
+
+Hired as a part time professor in [Viña del Mar University](https://www.uvm.cl/) and gave the following courses:
+
+- Mobile and Web Applications (UVM 2023 - 2026)
+- Operating Systems (UVM 2025 - 2026)
+- IOT and Robotics (UVM 2025 - 2026)
+
+
 ## 🗝️ Previous Technology Stack
 
 - [Laravel](https://laravel.com/) + [Inertia](https://inertiajs.com/) + [Svelte](https://svelte.dev/)
