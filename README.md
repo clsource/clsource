@@ -16,21 +16,21 @@
 
 ## ✨ Current Technology Stack
 
+*Last Updated: October 2026*
+
 |Technology|Purpose|
 |---|---|
 |[Elixir](https://elixir-lang.org/) 🎉 | Main programming language. Useful for creating scripts and [Livebooks](https://livebook.dev/).
 |[Phoenix](https://www.phoenixframework.org/) + [Liveview & Surface](https://surface-ui.org/) + [Ash](https://ash-hq.org/) | Main backend framework and Web development tools.
-|[C99](https://en.wikipedia.org/wiki/C99), [Ada](https://ada-lang.io/) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
-|[DataStar](https://data-star.dev/) | Secondary frontend framework.
-|[Goravel](https://www.goravel.dev/) | Secondary backend framework with Go.
+|[C99](https://en.wikipedia.org/wiki/C99) | Secondary programming language. Useful for low level code, terminal apps and creating Elixir Nifs.
+|[Nest.js](https://nestjs.com/) | Secondary backend framework with Typescript.
 |[Objective-C & Swift](https://www.swift.org/) | iOS apps.
 |[Asciidoc](https://asciidoctor.org/) + [Antora Docs](https://docs.antora.org/antora/latest/) | Book and docs authoring. ([Template](https://github.com/NinjasCL/asciidoc-book-template/)).
 |[Defold](https://defold.com/) + [Pyxel Edit](https://pyxeledit.com) | Games with Lua.
 
 ## 👨‍🎓 Currently learning
 
-- Ash framework
-- ESP32 (AtomVM)
+- Agentic Programming with Claude and Opencode
 
 ## 📚 Authored Books
 
@@ -43,6 +43,10 @@
 ## 🗝️ Previous Technology Stack
 
 - [Laravel](https://laravel.com/) + [Inertia](https://inertiajs.com/) + [Svelte](https://svelte.dev/)
-- [React.js](https://react.dev/)
+- [React.js](https://react.dev/): Frontend
 - [ProcessWire](https://processwire.com/) ([Experiments with ProcessWire](https://github.com/joyofpw/))
 - [Wren](https://wren.io/): Experimental Videogames with [Dome Engine](https://domeengine.com) and [TIC80](http://tic80.com/)
+- [Python](https://www.python.org/): Scripting language.
+- [Ada](https://ada-lang.io/): Low level programming language.
+- [DataStar](https://data-star.dev/): Secondary frontend framework.
+- [Goravel](https://www.goravel.dev/): Secondary backend framework with Go.
