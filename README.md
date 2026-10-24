@@ -6,7 +6,7 @@
 🧑‍💻 Software Engineer from Chile 🇨🇱
 
 - Member of [Elixir Chile](https://elixircl.github.io)
-- Maintainer of [Jasonelle iOS Framework](https://jasonelle.com)
+- Maintainer of [Jasonelle Framework](https://jasonelle.com)
 - Website [Ninjas.cl](https://ninjas.cl)
 - Since 2008
 
